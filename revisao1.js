@@ -5,7 +5,7 @@
     console.log(b)
 }
 console.log(a)
-//console.log(b) - nao funciona pois a variavel foi criada com let que pertence a um escopo de bloco
+//console.log(b) - nao funciona pois a variavel foi criada com let que possui escopo de bloco
 
 //Template String
 const produto = 'IPad'
